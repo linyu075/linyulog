@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 # learngit
 
 #### Description
 my first git
+=======
+# linyulog
+
+#### Description
+订阅链接每日更新
+>>>>>>> a48f0d5f1d375acb0835e7ed5716bb1d92a88407
 
 #### Software Architecture
 Software architecture description
